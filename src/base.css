@@ -103,7 +103,7 @@
  }
  
  
- /* Titlebar */
+ /* Titlebar
  
  div[class*="typeWindows-"] {
      --background-modifier-hover: rgba(var(--dm-white), 0.05);
@@ -135,7 +135,7 @@
      background: rgba(var(--md-black), 0.85);
      z-index: -1;
  }
- 
+ */
  
  /* Guilds */
  
