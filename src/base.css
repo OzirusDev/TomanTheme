@@ -207,14 +207,14 @@
  }*/
  
  div[data-list-item-id="guildsnav___create-join-button"],
- div[data-list-item-id="guildsnav___guild-discover-button"] {
+ /*div[data-list-item-id="guildsnav___guild-discover-button"] {
      transition: 150ms ease;
      opacity: 0.5;
      background-color: var(--background-solid) !important;
      color: rgba(var(--dm-white), 0.3) !important;
      border: 1px dashed rgba(var(--dm-white), 0.3);
      border-radius: 50px;
- }
+ }*/
  
  div[data-list-item-id="guildsnav___create-join-button"]:hover,
  div[data-list-item-id="guildsnav___guild-discover-button"]:hover {
