@@ -201,10 +201,10 @@
      bottom: 70px;
  }
  
- #app-mount [data-list-item-id="guildsnav___home"]>div {
+ /*#app-mount [data-list-item-id="guildsnav___home"]>div {
      color: transparent;
      background-color: transparent;
- }
+ }*/
  
  div[data-list-item-id="guildsnav___create-join-button"],
  div[data-list-item-id="guildsnav___guild-discover-button"] {
